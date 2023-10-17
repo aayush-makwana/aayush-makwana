@@ -45,7 +45,7 @@
       src="https://img.shields.io/badge/Instagram-9531ff?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>
-    <a href="https://www.facebook.com/shivam.upadhyay.94009841">
+    <a href="https://www.facebook.com/aayush.makwana.524">
     <img
       src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"
     />
