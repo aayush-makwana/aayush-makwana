@@ -11,7 +11,7 @@
   />
 </h1>
 
-<h3 align="center">A passionate software developer from Ahmedabad India 🇮🇳</h3>
+<h3 align="center">A Passionate Front-end Developer from Ahmedabad</h3>
 
 <br />
 
