@@ -3,7 +3,7 @@
   src="https://komarev.com/ghpvc/?username=aayush-makwana&label=Visitors&color=0e75b6&style=flat" alt="aayush-makwana"
 />
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://th.bing.com/th/id/R7aac0a65c2f22ba34702ab7413afd7aa?rik=3QLaVVVlQ8ByPQ&riu=http%3A%2F%2Fperfonec.com%2Fwp-content%2Fuploads%2F2019%2F03%2Fhome-gif.gif&ehk=t5qZ3Kod64AaXvjumGsEYHoPvBh7swqcZROIBTCNiow%3D&risl=&pid=ImgRaw" width="360"/>
 </div>
 <h1 align="center">
   <img
